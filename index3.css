@@ -1,0 +1,43 @@
+.row {
+  height: 100px;
+  width: 100%;
+}
+
+.row-big {
+  height: 200px;
+  width: 100%;
+}
+
+.row-1 {
+  background-color: #888;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+#row-1-div {
+  width: 50px;
+  height: 50px;
+  background-color: blue;
+}
+
+.row-2 {
+  background-color: #ddd;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+.row-3 {
+  background-color: blue;
+}
+
+.row-4 {
+  background-color: green;
+}
+
+.row-5 {
+  background-color: greenyellow;
+}
+
+.row-6 {
+  background-color: yellow;
+}
